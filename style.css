@@ -29,7 +29,6 @@ header {
 .navbar {
   display: flex;
   padding: 0 10px;
-  max-width: 1200px;
   width: 100%;
   align-items: center;
   justify-content: space-between;
@@ -153,7 +152,6 @@ section > p {
 section .cards {
   display: flex;
   flex-wrap: wrap;
-  max-width: 1200px;
   margin-top: 50px;
   padding: 0 10px;
   justify-content: space-between;
@@ -161,7 +159,6 @@ section .cards {
 
 section.about {
   margin: 0 auto;
-  max-width: 1200px;
 }
 
 .about .company-info {
@@ -224,7 +221,6 @@ section .cards .card {
 .contact .row {
   margin: 60px 0 90px;
   display: flex;
-  max-width: 1200px;
   width: 100%;
   align-items: center;
   justify-content: space-between;
@@ -290,7 +286,6 @@ footer {
 
 footer div {
   padding: 0 10px;
-  max-width: 1200px;
   width: 100%;
   display: flex;
   justify-content: space-between;
